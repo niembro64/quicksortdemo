@@ -36,5 +36,7 @@ const quickSort = (arr) => {
 };
 
 a = [7, 45, 2, 67, 3, 2, 1];
+// a = [3,65,7];
+
 console.log("before: " + a);
 console.log("after : " + quickSort(a));
